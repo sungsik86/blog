@@ -1,6 +1,7 @@
 package com.sungsik.springbootdeveloper.controller;
 
 import com.sungsik.springbootdeveloper.domain.Article;
+import com.sungsik.springbootdeveloper.dto.AddArticleRequest;
 import com.sungsik.springbootdeveloper.service.BlogService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
